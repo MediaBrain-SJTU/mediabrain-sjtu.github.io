@@ -10,30 +10,34 @@ last_name: Wang         #TODO:
 superuser: true
 
 # Role/position
-role:                   #TODO:
+role: Professor
 
 # Organizations/Affiliations
 organizations:          #TODO:
-  - name: 
-    url: ''             #TODO:
+  - name: Shanghai Jiao Tong University
+    url: 'https://sjtu.edu.cn/'
+  - name: Cooperative Medianet Innovation Center (CMIC)
+    url: 'https://cmic.sjtu.edu.cn/EN/Default.aspx'
+  - name: Shanghai Artificial Intelligence Laboratory
+    url: 'https://www.shlab.org.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio:                    #TODO:
+bio: Professor at Shanghai Jiao Tong University
 
-interests:
-  - Artificial Intelligence #TODO:
+# interests:
+#   - Artificial Intelligence #TODO:
 
-education:
-  courses:
-    - course: PhD in Artificial Intelligence  #TODO:
-      institution:                            #TODO:
-      year:                                   #TODO:
-    - course: MEng in                         #TODO:
-      institution:                            #TODO:
-      year:                                   #TODO:
-    - course: BSc in                          #TODO:
-      institution:                            #TODO:
-      year:                                   #TODO:
+# education:
+#   courses:
+#     - course: PhD in Artificial Intelligence  #TODO:
+#       institution:                            #TODO:
+#       year:                                   #TODO:
+#     - course: MEng in                         #TODO:
+#       institution:                            #TODO:
+#       year:                                   #TODO:
+#     - course: BSc in                          #TODO:
+#       institution:                            #TODO:
+#       year:                                   #TODO:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -42,16 +46,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:[YourEmailAddress]'         #TODO:
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link:                                     #TODO:
+    link: 'mailto:wangyanfeng@sjtu.edu.cn'
   - icon: google-scholar
     icon_pack: ai
-    link:                                     #TODO:
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen          #TODO:
+    link: https://scholar.google.com/citations?user=x_sgJskAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,9 +65,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Faculties
   
 weights: 1
 ---
-
-Bio
+<!-- ⚠️ This page is under building! -->

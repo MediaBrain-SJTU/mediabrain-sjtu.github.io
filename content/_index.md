@@ -73,13 +73,13 @@ sections:
       interval: 1000
   - block: hero
     content:
-      # title: |
-      #   Research Scope
-      image:
-        filename: new-p2.jpg
+      title: |
+        Research Scope
+      # image:
+      #   filename: new-p2.jpg
       text: |
         <br>
-        ⚠️ This website is still under building!
+        We develop advanced methodologies and systems to better process multimedia, analyze social media, and understand human.
   
   # - block: collection
   #   content:
